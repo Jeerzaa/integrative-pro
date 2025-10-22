@@ -6,7 +6,7 @@
 // -------------------- BRIDGE + COMPOSITE PATTERN --------------------
 
 // -------------------- CLIENT DEMO --------------------
-public class MediaSuiteBridgeDemo {
+public class MediaSuiteDemo {
     public static void main(String[] args) {
         // --- Create Media Sources (Adapters + Proxy)
         MediaSource local = new LocalFileAdapter("C:/music/song.mp3");
@@ -40,3 +40,4 @@ public class MediaSuiteBridgeDemo {
         enhancedMovie.play(); // cached stream used
     }
 }
+
