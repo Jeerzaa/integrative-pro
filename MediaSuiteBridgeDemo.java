@@ -1,10 +1,5 @@
 // === Laboratory 2: Structural Design Patterns ===
 // Patterns used: Adapter, Proxy, Bridge, Decorator, Composite
-
-
-
-// -------------------- BRIDGE + COMPOSITE PATTERN --------------------
-
 // -------------------- CLIENT DEMO --------------------
 public class MediaSuiteDemo {
     public static void main(String[] args) {
@@ -40,4 +35,5 @@ public class MediaSuiteDemo {
         enhancedMovie.play(); // cached stream used
     }
 }
+
 
