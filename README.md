@@ -3,6 +3,7 @@ Laboratory 2
 
 Command Prompt (cmd) to run the Java program 
 Make sure:
+-You download the file as zip 
 -You have Java installed (type java -version to check)
 -Your .java files are saved in a folder (for example: C:\MediaSuiteBridgeDemo\src)
 -Your main class is MediaSuiteDemo.java
