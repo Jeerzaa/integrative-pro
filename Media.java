@@ -1,0 +1,3 @@
+interface Media {
+    void play();
+}
