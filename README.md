@@ -1,5 +1,7 @@
 # integrative-pro
 Laboratory 2
+
+Command Prompt (cmd) to run the Java program 
 Make sure:
 -You have Java installed (type java -version to check)
 -Your .java files are saved in a folder (for example: C:\MediaSuiteBridgeDemo\src)
